@@ -1,0 +1,3 @@
+1. use arm-linux-gcc compile
+2. use ubuntu 32 bit operate system,because 64bit need some lib like libstdc++.so.6
+3. if you want test this tcp connect , you must change tcp_client.c code, the server ip addr
